@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 130px;
+}
+
+.title {
+  color: white;
+}
+
+.layout {
+  padding: 8px;
+  background-color: green;
+}
+
+.main-title {
+  color: red;
+}
+
+.text-blue {
+  width: 100px;
+  margin-bottom: 100px;
+  color: white;
+  background-color: blue;
+}
+
+.text > span {
+  color: red;
+}
+
+.big {
+  padding: 50px;
+}
+
+.indent {
+  margin-left: 100px;
+}
+
+.item {
+  font-size: 20px;
+  border: 1px solid #000;
+}
