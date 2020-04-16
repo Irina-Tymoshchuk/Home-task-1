@@ -1,3 +1,3 @@
-### Home-task-1
+### home-task-2
 
-[Ссылка на живую страницу](https://irina-tymoshchuk.github.io/Home-task-1/)
+[Ссылка на живую страницу](https://irina-tymoshchuk.github.io/home-task-2/)
